@@ -1,0 +1,4 @@
+﻿  kr.cpp
+C:\Users\IlyaGod\source\repos\kr\kr\kr.cpp(23,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\IlyaGod\source\repos\kr\kr\kr.cpp(29,19): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  kr.vcxproj -> C:\Users\IlyaGod\source\repos\kr\x64\Debug\kr.exe
